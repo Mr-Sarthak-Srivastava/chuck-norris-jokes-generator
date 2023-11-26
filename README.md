@@ -1,6 +1,6 @@
 # Chuck Norris Jokes Generator
 
-Complete Vanilla JavaScript based app.
+Complete __*Vanilla JavaScript*__ based app.
 
 <img src="images/screen.png" width="400">
 
